@@ -1,5 +1,7 @@
 Rencana 2021 : 
 1. Adobe illustrator
   1.1 Animated Design
-2. Adobe photoshop
-  2.1 Cleaning
+2. adobe animated
+  2.1 Rigging
+3. Adobe photoshop
+  3.1 Cleaning
